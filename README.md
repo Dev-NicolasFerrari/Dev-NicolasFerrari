@@ -1,1 +1,5 @@
-Olá, me chamo Nicolas Ferrari, sou estudante de Desenvolvimento de Sistemas pela ETEC, estou aprendendo a programar utilizando o Python!
+# 👋🏻 Olá, me chamo Nicolas Ferrari!
+- 🎓 Estudando Desenvolvimento de Sistemas
+- 💻 Programando em Python
+- 🚀 Futuro Dev!
+- 📪 Contato: dev.nicolasferrari@gmail.com
