@@ -1,7 +1,8 @@
 # 👋🏻 Olá, me chamo Nicolas Ferrari!
+
 💻**Estudando Desenvolvimento de Sistemas|Aprendendo a programar em Python|Futuro Dev!**
 ---
-##🙋🏻‍♂️ Sobre mim:
+## 🙋🏻‍♂️ Sobre mim:
 -🎓 Atualmente cursando **Técnico de Desenvolvimento de Sistemas**
 -📚 Sempre aprendendo sobre novas tecnologias e boas práticas de programação
 ---
